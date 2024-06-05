@@ -28,4 +28,5 @@
 
     docker image push <登入伺服器>/<使用者名稱>/flaskweb:latest 
 
+    
     確認映像檔是否成功推送到Azure Container Registry中的存放庫
