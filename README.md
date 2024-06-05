@@ -24,6 +24,8 @@
 
     docker login <登入伺服器>
 
-6.推送 Docker 映像到 Azure Container Registry
+6.推送 Docker 映像檔到 Azure Container Registry
 
     docker image push <登入伺服器>/<使用者名稱>/flaskweb:latest 
+
+    確認映像檔是否成功推送到Azure Container Registry中的存放庫
